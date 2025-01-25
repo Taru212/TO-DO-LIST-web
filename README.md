@@ -1,1 +1,2 @@
-# TO-DO-LIST-web
+# TO-DO-LIST-website
+A to-do list website is a web-based platform designed to help users efficiently organize, prioritize, and track their tasks. It offers features such as task creation, categorization, priority settings, deadlines, reminders, and cross-platform accessibility, ensuring users can manage responsibilities effectively from anywhere. By centralizing tasks in one place, these websites reduce the mental effort of remembering duties, enhance productivity, and cater to a wide audience, including students, professionals, and teams, making them an essential tool for staying organized in today’s fast-paced world.
